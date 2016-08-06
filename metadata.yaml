@@ -1,0 +1,28 @@
+_repo: English-Housewifery--13-Exemplified-in-above-Four-Hundred-and-Fifty-Receipts-Giving-Direction__10072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moxon, Elizabeth
+    gutenberg_agent_id: '3295'
+    url: http://www.gutenberg.org/2009/agents/3295
+description: Over 500 traditional English recipes built up over hundreds of years.
+  From soups to main courses to puddings, this covers every aspect of classic English
+  cooking, including a traditional 'Bill of Fare', giving meal suggestions for every
+  month of the year.
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, English -- Early works to 1800'
+- !lcc 'TX'
+- !lcsh 'Menus -- Early works to 1800'
+- GITenberg
+title: "English Housewifery\r\nExemplified in above Four Hundred and Fifty Receipts\
+  \ Giving Directions for most Parts of Cookery"
+url: http://www.gutenberg.org/ebooks/10072
